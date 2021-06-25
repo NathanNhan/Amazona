@@ -27,3 +27,7 @@
    4. copy index.html content to App.js
    5. copy style.css content to index.css
    6. replace class with className
+
+
+6. Clone trực tiếp branch
+git clone -b master https://github.com/CodewithPTN/ecommerce-app.git
